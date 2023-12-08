@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-containers {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
